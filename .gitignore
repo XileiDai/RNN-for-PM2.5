@@ -1,0 +1,10 @@
+data/*
+.vscode/*
+__pycache__/*
+*.pyc
+*.pkl
+*.pth
+*.txt
+*.gz
+Result/*
+Cross_validation/*
